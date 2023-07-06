@@ -7,6 +7,8 @@
 
 ### Hello, I am Gabriel De Paula!
 
-An intern at [@G+D](https://www.gi-de.com/en/), and a hobbyist Full-Stack, IA Developer and a Hacking enthusiastic!
+An intern at [@G+D](https://www.gi-de.com/en/), and a Full-Stack Web3 Developer, IA Developer and a hobbyist Hacking enthusiastic!
+
+Hope you enjoy the time you spent on my page, in case you have any suggestions or modifications please contact me.
 
 [ ![github-stats][] ][my-link]
