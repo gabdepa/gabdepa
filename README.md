@@ -12,3 +12,5 @@ An intern at [@G+D](https://www.gi-de.com/en/), and a Full-Stack Web3 Developer,
 Hope you enjoy the time you spent on my page, in case you have any suggestions or modifications please contact me.
 
 [ ![github-stats][] ][my-link]
+
+![Gabriel Razzolini Pires De Paula's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdepa&theme=dracula&langs_count=10&layout=compact)
