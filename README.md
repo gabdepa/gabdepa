@@ -13,4 +13,4 @@ Hope you enjoy the time you spent on my page, in case you have any suggestions o
 
 [ ![github-stats][] ][my-link]
 
-![Gabriel Razzolini Pires De Paula's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdepa&langs_count=10&layout=compact)
+![Gabriel Razzolini Pires De Paula's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdepa&theme=midnightlangs_count=10&layout=compact)
