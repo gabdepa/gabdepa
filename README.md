@@ -7,7 +7,7 @@
 
 ### Hello, I am Gabriel De Paula!
 
-An intern at [@G+D](https://www.gi-de.com/en/), and a Full-Stack Web3 Developer, AI Developer, and a hobbyist hacking enthusiast!
+A Junior Software Developer at [@Zazmic](https://zazmic.com/pt/main-page-pt/), AI Developer enthusiastic!
 
 Hope you enjoy the time you spent on my page, in case you have any suggestions or modifications please contact me.
 
