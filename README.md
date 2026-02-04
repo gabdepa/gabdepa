@@ -11,6 +11,5 @@ A Junior Software Developer at [@Zazmic](https://zazmic.com/pt/main-page-pt/), A
 
 Hope you enjoy the time you spent on my page, in case you have any suggestions or modifications please contact me.
 
-[ ![github-stats][] ][my-link]
-
-![Gabriel Razzolini Pires De Paula's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdepa&theme=dracula&langs_count=10&layout=compact)
+![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabdepa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdepa&layout=compact&theme=tokyonight)
